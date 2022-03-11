@@ -65,12 +65,19 @@ h4 {
     unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 section {
-    width: 30%;
+    width: 24em;
     display: inline-block;
-    margin-left: 5%;
-    margin-right: 10%;
+    margin-left: 1em;
+    margin-right: 11em;
     padding: 1.5em;
 }
 section p {
     text-align: center;
+}
+section h4 {
+    font-size: 1.4em;
+}
+section img {
+    max-width: 100%;
+    max-height: 100%;
 }
