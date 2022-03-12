@@ -20,6 +20,9 @@ li {
 }
 nav {
     text-align: center;
+    position: sticky;
+    top: 1em;
+    background-color: #eee;
 }
 body {
     font-family: 'Source Sans Pro';
